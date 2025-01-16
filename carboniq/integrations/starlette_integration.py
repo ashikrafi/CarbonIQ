@@ -7,13 +7,13 @@ import uvicorn
 from starlette.applications import Starlette
 from starlette.responses import JSONResponse
 
-from carboniq.decorators import track_emissions
+from carboniq.emissions import carbon_profiler
 
 app = Starlette(debug=True)
 
 
 @app.route(f"/home", methods=["GET"])
-@track_emissions(real_time=True)
+@carbon_profiler(real_time=True)
 async def home(request):
     return JSONResponse({"message": "Welcome to CarbonIQ with Starlette!"})
 
