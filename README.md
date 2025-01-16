@@ -35,7 +35,7 @@ pip install carboniq
 To disable dependency caching during installation:
 
 ```bash
-pip install --no-cache-dir carboniq
+pip install --no-cache-dir --upgrade carboniq
 ```
 
 ---

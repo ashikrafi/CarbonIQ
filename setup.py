@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="CarbonIQ",
-    version="0.1.2",
+    version="0.1.4",
     author="Md Ashikur Rahman",
     author_email="mdashikur.rafi@gmail.com",
     description="A Python package to track carbon emissions for scripts and applications.",
