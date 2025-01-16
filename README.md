@@ -123,7 +123,7 @@ To enable real-time tracking of carbon emissions using live grid intensity data:
 - **Python Version**: 3.6 or higher.
 - **Optional NVIDIA GPU Tracking**:
   - Requires the `pynvml` library and NVIDIA drivers.
-
+  - 
 ---
 
 ## **Contributing**
