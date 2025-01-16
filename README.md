@@ -12,4 +12,4 @@
 ## Installation
 
 ```bash
-pip install CarbonIQ
+pip install --no-cache-dir --upgrade carboniq
