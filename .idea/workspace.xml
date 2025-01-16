@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="801c5b09-6715-432e-b734-71e7e7d3bf3e" name="Changes" comment="Published Package">
-      <change afterPath="$PROJECT_DIR$/.idea/CarbonIQ.iml" afterDir="false" />
+    <list default="true" id="801c5b09-6715-432e-b734-71e7e7d3bf3e" name="Changes" comment="Emission Logic Updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarbonIQ.egg-info/PKG-INFO" beforeDir="false" afterPath="$PROJECT_DIR$/CarbonIQ.egg-info/PKG-INFO" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CarbonIQ.egg-info/SOURCES.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CarbonIQ.egg-info/SOURCES.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carboniq/emissions.py" beforeDir="false" afterPath="$PROJECT_DIR$/carboniq/emissions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/CarbonIQ-0.1.0-py3-none-any.whl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/carboniq-0.1.0.tar.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ashikrafi"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ashikrafi&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ashikrafi/CarbonIQ.git",
-    "accountId": "518befd7-d2ca-42e8-b71b-110cfa792767"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ashikrafi/CarbonIQ.git&quot;,
+    &quot;accountId&quot;: &quot;518befd7-d2ca-42e8-b71b-110cfa792767&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -52,19 +46,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.starlette.executor": "Run",
-    "Python.starlette_integration (1).executor": "Run",
-    "Python.starlette_integration.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/kow-ai-white/Office_work/Projects/PACKAGE/CarbonIQ",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.starlette.executor&quot;: &quot;Run&quot;,
+    &quot;Python.starlette_integration (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.starlette_integration.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/kow-ai-white/Office_work/Projects/PACKAGE/CarbonIQ&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.starlette_integration (1)">
     <configuration name="starlette" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CarbonIQ" />
@@ -196,13 +190,22 @@
       <option name="project" value="LOCAL" />
       <updated>1737052181422</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Emission Logic Updated">
+      <option name="closed" value="true" />
+      <created>1737055444232</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1737055444232</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Project Initialization" />
     <MESSAGE value="Renamed Script Name" />
     <MESSAGE value="Published Package" />
-    <option name="LAST_COMMIT_MESSAGE" value="Published Package" />
+    <MESSAGE value="Emission Logic Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Emission Logic Updated" />
   </component>
 </project>
