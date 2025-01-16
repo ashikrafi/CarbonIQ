@@ -4,12 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="801c5b09-6715-432e-b734-71e7e7d3bf3e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MANIFEST.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_carboniq.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="801c5b09-6715-432e-b734-71e7e7d3bf3e" name="Changes" comment="Published Package">
+      <change afterPath="$PROJECT_DIR$/.idea/CarbonIQ.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarbonIQ.egg-info/PKG-INFO" beforeDir="false" afterPath="$PROJECT_DIR$/CarbonIQ.egg-info/PKG-INFO" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CarbonIQ.egg-info/SOURCES.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CarbonIQ.egg-info/SOURCES.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carboniq/emissions.py" beforeDir="false" afterPath="$PROJECT_DIR$/carboniq/emissions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/CarbonIQ-0.1.0-py3-none-any.whl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/carboniq-0.1.0.tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +29,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ashikrafi"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ashikrafi/CarbonIQ.git",
+    "accountId": "518befd7-d2ca-42e8-b71b-110cfa792767"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -44,8 +59,9 @@
     "Python.starlette_integration.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/kow-ai-white/Office_work/Projects/CV/2D/retouchedAI",
+    "last_opened_file_path": "/home/kow-ai-white/Office_work/Projects/PACKAGE/CarbonIQ",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -140,6 +156,53 @@
       <option name="presentableId" value="Default" />
       <updated>1737043386886</updated>
     </task>
+    <task id="LOCAL-00001" summary="Project Initialization">
+      <option name="closed" value="true" />
+      <created>1737050110148</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737050110148</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Project Initialization">
+      <option name="closed" value="true" />
+      <created>1737050119942</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737050119942</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Project Initialization">
+      <option name="closed" value="true" />
+      <created>1737050143021</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1737050143021</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Renamed Script Name">
+      <option name="closed" value="true" />
+      <created>1737052159459</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1737052159459</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Published Package">
+      <option name="closed" value="true" />
+      <created>1737052181422</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1737052181422</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Project Initialization" />
+    <MESSAGE value="Renamed Script Name" />
+    <MESSAGE value="Published Package" />
+    <option name="LAST_COMMIT_MESSAGE" value="Published Package" />
   </component>
 </project>

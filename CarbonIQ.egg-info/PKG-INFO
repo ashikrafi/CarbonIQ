@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: CarbonIQ
-Version: 0.1.0
+Version: 0.1.2
 Summary: A Python package to track carbon emissions for scripts and applications.
 Home-page: https://github.com/ashikrafi/CarbonIQ
 Author: Md Ashikur Rahman

@@ -10,7 +10,7 @@ CarbonIQ.egg-info/entry_points.txt
 CarbonIQ.egg-info/requires.txt
 CarbonIQ.egg-info/top_level.txt
 carboniq/__init__.py
-carboniq/decorators.py
+carboniq/emissions.py
 carboniq/gpu_utils.py
 carboniq/metrics.py
 tests/__init__.py
